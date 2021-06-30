@@ -1,3 +1,4 @@
+
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>@groupId@</groupId>
@@ -33,4 +34,6 @@
     </developer>
   </developers>
 </project>
+
 to tell about "git pull" command
+to tell about "git push" command
